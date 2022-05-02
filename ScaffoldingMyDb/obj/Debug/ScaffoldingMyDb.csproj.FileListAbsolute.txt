@@ -1,0 +1,12 @@
+C:\Users\kishmn\source\repos\ScaffoldingInMVC\ScaffoldingMyDb\bin\Debug\ScaffoldingMyDb.dll.config
+C:\Users\kishmn\source\repos\ScaffoldingInMVC\ScaffoldingMyDb\bin\Debug\ScaffoldingMyDb.dll
+C:\Users\kishmn\source\repos\ScaffoldingInMVC\ScaffoldingMyDb\bin\Debug\ScaffoldingMyDb.pdb
+C:\Users\kishmn\source\repos\ScaffoldingInMVC\ScaffoldingMyDb\bin\Debug\EntityFramework.dll
+C:\Users\kishmn\source\repos\ScaffoldingInMVC\ScaffoldingMyDb\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kishmn\source\repos\ScaffoldingInMVC\ScaffoldingMyDb\bin\Debug\EntityFramework.xml
+C:\Users\kishmn\source\repos\ScaffoldingInMVC\ScaffoldingMyDb\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kishmn\source\repos\ScaffoldingInMVC\ScaffoldingMyDb\obj\Debug\ScaffoldingMyDb.csproj.AssemblyReference.cache
+C:\Users\kishmn\source\repos\ScaffoldingInMVC\ScaffoldingMyDb\obj\Debug\ScaffoldingMyDb.csproj.CoreCompileInputs.cache
+C:\Users\kishmn\source\repos\ScaffoldingInMVC\ScaffoldingMyDb\obj\Debug\ScaffoldingMyDb.csproj.CopyComplete
+C:\Users\kishmn\source\repos\ScaffoldingInMVC\ScaffoldingMyDb\obj\Debug\ScaffoldingMyDb.dll
+C:\Users\kishmn\source\repos\ScaffoldingInMVC\ScaffoldingMyDb\obj\Debug\ScaffoldingMyDb.pdb
